@@ -1,0 +1,5 @@
+C:\Users\2lare\OneDrive\Desktop\TaxCalculator.exe
+C:\Users\2lare\OneDrive\Desktop\TaxCalculator.dll
+C:\Users\2lare\OneDrive\Desktop\TaxCalculator.deps.json
+C:\Users\2lare\OneDrive\Desktop\TaxCalculator.runtimeconfig.json
+C:\Users\2lare\OneDrive\Desktop\TaxCalculator.pdb

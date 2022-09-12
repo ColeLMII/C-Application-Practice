@@ -1,0 +1,10 @@
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\bin\Debug\ATM_PIN_Verification.exe.config
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\bin\Debug\ATM_PIN_Verification.exe
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\bin\Debug\ATM_PIN_Verification.pdb
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\obj\Debug\ATM_PIN_Verification.csproj.AssemblyReference.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\obj\Debug\ATM_PIN_Verification.frmBankPIN.resources
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\obj\Debug\ATM_PIN_Verification.Properties.Resources.resources
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\obj\Debug\ATM_PIN_Verification.csproj.GenerateResource.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\obj\Debug\ATM_PIN_Verification.csproj.CoreCompileInputs.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\obj\Debug\ATM_PIN_Verification.exe
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\ATM_PIN_Verification\ATM_PIN_Verification\obj\Debug\ATM_PIN_Verification.pdb

@@ -1,0 +1,10 @@
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\bin\Debug\NaturalNumbersT00271500.exe.config
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\bin\Debug\NaturalNumbersT00271500.exe
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\bin\Debug\NaturalNumbersT00271500.pdb
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\obj\Debug\NaturalNumbersT00271500.csproj.AssemblyReference.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\obj\Debug\NaturalNumbersT00271500.frmNumbers.resources
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\obj\Debug\NaturalNumbersT00271500.Properties.Resources.resources
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\obj\Debug\NaturalNumbersT00271500.csproj.GenerateResource.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\obj\Debug\NaturalNumbersT00271500.csproj.CoreCompileInputs.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\obj\Debug\NaturalNumbersT00271500.exe
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\NaturalNumbers_T00271500\NaturalNumbersT00271500\obj\Debug\NaturalNumbersT00271500.pdb

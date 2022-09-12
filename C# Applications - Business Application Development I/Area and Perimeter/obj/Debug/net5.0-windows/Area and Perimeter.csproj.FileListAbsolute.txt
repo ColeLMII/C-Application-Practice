@@ -1,0 +1,18 @@
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.csproj.AssemblyReference.cache
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area_and_Perimeter.frmAreaandPerimeter.resources
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.csproj.GenerateResource.cache
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.AssemblyInfo.cs
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\2lare\source\repos\Area and Perimeter\bin\Debug\net5.0-windows\Area and Perimeter.exe
+C:\Users\2lare\source\repos\Area and Perimeter\bin\Debug\net5.0-windows\Area and Perimeter.deps.json
+C:\Users\2lare\source\repos\Area and Perimeter\bin\Debug\net5.0-windows\Area and Perimeter.runtimeconfig.json
+C:\Users\2lare\source\repos\Area and Perimeter\bin\Debug\net5.0-windows\Area and Perimeter.runtimeconfig.dev.json
+C:\Users\2lare\source\repos\Area and Perimeter\bin\Debug\net5.0-windows\Area and Perimeter.dll
+C:\Users\2lare\source\repos\Area and Perimeter\bin\Debug\net5.0-windows\ref\Area and Perimeter.dll
+C:\Users\2lare\source\repos\Area and Perimeter\bin\Debug\net5.0-windows\Area and Perimeter.pdb
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.dll
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\ref\Area and Perimeter.dll
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.pdb
+C:\Users\2lare\source\repos\Area and Perimeter\obj\Debug\net5.0-windows\Area and Perimeter.genruntimeconfig.cache

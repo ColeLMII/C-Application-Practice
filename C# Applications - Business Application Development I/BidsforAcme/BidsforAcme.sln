@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidsforAcme", "BidsforAcme.csproj", "{2A0DA2C7-87E2-4A41-B0A0-2BB825DAC877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0DA2C7-87E2-4A41-B0A0-2BB825DAC877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0DA2C7-87E2-4A41-B0A0-2BB825DAC877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0DA2C7-87E2-4A41-B0A0-2BB825DAC877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0DA2C7-87E2-4A41-B0A0-2BB825DAC877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ABAB7E8-E95E-491F-B5F9-C38DCBB5B775}
+	EndGlobalSection
+EndGlobal

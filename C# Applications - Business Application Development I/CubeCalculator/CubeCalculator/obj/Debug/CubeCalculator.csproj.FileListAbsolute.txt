@@ -1,0 +1,10 @@
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\bin\Debug\CubeCalculator.exe.config
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\bin\Debug\CubeCalculator.exe
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\bin\Debug\CubeCalculator.pdb
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\obj\Debug\CubeCalculator.csproj.AssemblyReference.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\obj\Debug\CubeCalculator.frmCubeCalculator.resources
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\obj\Debug\CubeCalculator.Properties.Resources.resources
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\obj\Debug\CubeCalculator.csproj.GenerateResource.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\obj\Debug\CubeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\obj\Debug\CubeCalculator.exe
+C:\Users\2lare\OneDrive\Desktop\Bus. Application Development\CubeCalculator\CubeCalculator\obj\Debug\CubeCalculator.pdb

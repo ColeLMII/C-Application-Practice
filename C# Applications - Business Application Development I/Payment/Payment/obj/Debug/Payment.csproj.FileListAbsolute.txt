@@ -1,0 +1,58 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.cache
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+Z:\DS3850 Fall 2021\C# 2015\Student download\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\bin\Debug\Payment.exe.config
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\bin\Debug\Payment.exe
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.csprojAssemblyReference.cache
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.frmCustomer.resources
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.frmPayment.resources
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.cache
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\sawilliams\Downloads\Payment Start File\Payment\Payment\obj\Debug\Payment.pdb
